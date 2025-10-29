@@ -3,9 +3,7 @@ message: "If you use this repository, please cite it as below."
 title: "AI-ML-Engineering: Free & Open AI/ML Learning Hub"
 abstract: "A curated hub of free and open-source AI/ML learning resources across foundations, machine learning, deep learning, tools, practical projects, and case studies."
 authors:
-  - family-names: Kumar
-    given-names: Venkata Anil
-    orcid: ""
+  - name: "Venkata Anil Kumar"
 
 # You can update version/date when tagging releases
 version: "0.1.0"
