@@ -13,6 +13,7 @@ All notable changes to this repository will be documented in this file.
  - Added domain-specific subsections under Case Studies (Recommenders & Personalization, Search & Ranking, Fraud & Risk, Ads & Marketing, Transportation & Logistics, Healthcare & Life Sciences, Maps & Geospatial, NLP & Content Understanding).
 	- Added Finance & FinTech and Security & Privacy domains under Case Studies.
  - Introduced GitHub hygiene and automation: PR template, Issue template for resource suggestions, and a weekly/PR link-check workflow using lychee.
+ - Maintainer details in README, `CODEOWNERS` for auto-assignment, and `CITATION.cff` for citation metadata.
 
 ### Updated
 - Curated and verified resource links across sections (last checked: 2025-10-29).

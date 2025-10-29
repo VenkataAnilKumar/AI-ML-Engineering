@@ -89,6 +89,10 @@ A: Official docs often host excellent tutorials and guides that remain up-to-dat
 - Kaggle — Competitions, datasets, and community notebooks.
 - Import AI (free issues) · The Batch (free issues) — News and summaries.
 
+## Maintainer
+
+- Venkata Anil Kumar — GitHub: https://github.com/VenkataAnilKumar
+
 ## Contributing
 
 We welcome community contributions. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for formatting (tables, icons, difficulty tags, last-checked date) and curation rules (free-only, open-source tools).
