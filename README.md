@@ -1,5 +1,7 @@
 # AI-ML-Engineering — Free & Open AI/ML Learning Hub
 
+[![Link Check](https://github.com/VenkataAnilKumar/AI-ML-Engineering/actions/workflows/link-check.yml/badge.svg)](https://github.com/VenkataAnilKumar/AI-ML-Engineering/actions/workflows/link-check.yml) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 A clean, visual, and beginner-friendly hub of free and open-source AI/ML learning resources across foundations, machine learning, deep learning, tools, and practical projects.
 
 Last checked: 2025-10-29
