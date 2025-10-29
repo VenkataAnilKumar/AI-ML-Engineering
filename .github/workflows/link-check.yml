@@ -1,0 +1,23 @@
+name: Link Check
+
+on:
+  pull_request:
+  schedule:
+    - cron: '0 6 * * 1' # Every Monday at 06:00 UTC
+
+jobs:
+  lychee:
+    name: Check links with lychee
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >-
+            --verbose --no-progress --max-redirects 5 --timeout 20 --retry-wait-time 2
+            --accept 200,206,429 --exclude-mail --exclude-path "**/.git/**"
+            "**/*.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
