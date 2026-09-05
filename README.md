@@ -87,6 +87,7 @@ A: Official docs often host excellent tutorials and guides that remain up-to-dat
 - fast.ai forums — Practical deep learning community.
 - Papers with Code — Track SOTA and code links.
 - Kaggle — Competitions, datasets, and community notebooks.
+- [AI Weekly](https://aiweekly.co/) — Free briefings on models, agents, research, and policy three times a week.
 - Import AI (free issues) · The Batch (free issues) — News and summaries.
 
 ## Maintainer
